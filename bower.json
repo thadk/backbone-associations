@@ -4,6 +4,6 @@
     "main":"./backbone-associations.js",
     "dependencies":{
         "backbone":">=0.9.10",
-        "underscore":"1.4.3"
+        "underscore":">=1.4.3"
     }
 }
