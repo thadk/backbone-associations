@@ -3,7 +3,7 @@
     "version":"0.5.1",
     "main":"./backbone-associations.js",
     "dependencies":{
-        "backbone":"~1.0",
-        "underscore":"~1.5"
+        "backbone":"1.0",
+        "underscore":"1.5.1"
     }
 }
